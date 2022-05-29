@@ -35,5 +35,4 @@ class Solution {
             nums[c++]=2;
         }
     }
-    
 }
